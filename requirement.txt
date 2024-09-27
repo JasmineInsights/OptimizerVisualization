@@ -1,0 +1,11 @@
+numpy
+pandas
+keras
+streamlit
+scikit-learn
+matplotlib
+tensorflow==2.12.0
+Pillow
+seaborn
+mlxtend
+sympy
